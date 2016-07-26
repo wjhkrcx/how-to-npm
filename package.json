@@ -10,10 +10,18 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "wjhkrcx",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wjhkrcx/study.git"
-  }
+    "url": "git+https://github.com/wjhkrcx/study.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wjhkrcx/study/issues"
+  },
+  "homepage": "https://github.com/wjhkrcx/study#readme",
+  "keywords": [
+    "a",
+    "test"
+  ]
 }
